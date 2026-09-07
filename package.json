@@ -1,0 +1,21 @@
+{
+  "name": "nodejs-learning",
+  "version": "1.0.0",
+  "description": "- Node.js is a JavaScript runtime environment.\r - Node.js was created by Ryan Dahl.\r - Node.js uses Google's V8 JavaScript engine.\r - Node.js allows JavaScript to run outside the browser.\r - Node.js does not have browser objects like `window` and `document`.\r - LTS means Long-Term Support and is generally preferred for stable development.\r - npm (Node Package Manager) comes with Node.js and is used to install and manage packages.",
+  "homepage": "https://github.com/SrishtiVishwakarma/nodejs-learning#readme",
+  "bugs": {
+    "url": "https://github.com/SrishtiVishwakarma/nodejs-learning/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SrishtiVishwakarma/nodejs-learning.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "hello.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"node hello"
+  }
+}
