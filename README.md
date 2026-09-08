@@ -42,3 +42,6 @@ useful for server-side development.
 ## 🎯 Day 2 Takeaway
 
 Learned how Node.js uses modules to organize/reuse code and how the `fs` module allows applications to work with files.
+
+## DAY 3 -HTTP SERVER, URL, HTTP METHOD
+Built a http server...also understood url its parsing....and http methods like get, post,put,patch,delete
