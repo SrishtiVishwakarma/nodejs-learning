@@ -45,3 +45,7 @@ Learned how Node.js uses modules to organize/reuse code and how the `fs` module 
 
 ## DAY 3 -HTTP SERVER, URL, HTTP METHOD
 Built a http server...also understood url its parsing....and http methods like get, post,put,patch,delete
+
+
+## DAY 4-Created a server using express
+Built a server using express...much cleaner code . Many built in functions which improves the readability of the code.
