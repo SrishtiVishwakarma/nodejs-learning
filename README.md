@@ -49,3 +49,7 @@ Built a http server...also understood url its parsing....and http methods like g
 
 ## DAY 4-Created a server using express
 Built a server using express...much cleaner code . Many built in functions which improves the readability of the code.
+
+## day 5- rest apis- using node and express
+get and post req -done
+did post using postman
