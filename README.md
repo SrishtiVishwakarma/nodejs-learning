@@ -53,3 +53,5 @@ Built a server using express...much cleaner code . Many built in functions which
 ## day 5- rest apis- using node and express
 get and post req -done
 did post using postman
+
+## day 6- connecred mongodb database
